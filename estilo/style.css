@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+td {
+    border-radius: 5px;
+    width: 10vw;
+}
+
+th.Cvertical {
+    background-color: brown;
+    color: white;
+    border-radius: 5px;  
+}
+
+td.contrato {
+    background-color: brown;
+}
+
+th.Pvertical {
+    background-color: orange;
+    color: white;
+    border-radius: 5px;  
+}
+
+td.proposta {
+    background-color: orange;
+}
+
+th.Dvertical {
+    background-color: yellow;
+    color: white;
+    border-radius: 5px;  
+}
+
+td.demanda {
+    background-color: yellow;
+}
